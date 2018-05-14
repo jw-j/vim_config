@@ -1,6 +1,3 @@
-# 反馈
-* 作者: [Vic](http://blog.libgod.com "libGod")
-* 邮箱: vic#libgod.com (replace # with @)
 
 ## 常用快捷键
     <F2>    一键退出
@@ -12,12 +9,12 @@
     Ctrl+p  打开文件
 
 ## 安装步骤(类Unix系统):
-    $ git clone https://git.oschina.net/vic.liu/vim_config.git ~/.vim_config
+    $ git clone git@github.com:leafxx/my_vim.git ~/.vim_config
     $ cat ~/.vim_config/install.sh
     $ bash ~/.vim_config/install.sh
 
 ## 安装步骤(Windows系统):
-    $ git clone https://git.oschina.net/vic.liu/vim_config.git ~/_vim_config
+    $ git clone git@github.com:leafxx/my_vim.git ~/_vim_config
     $ cat ~/_vim_config/install.sh
     $ bash ~/_vim_config/install.sh
 
