@@ -9,12 +9,12 @@
     Ctrl+p  打开文件
 
 ## 安装步骤(类Unix系统):
-    $ git clone git@github.com:leafxx/my_vim.git ~/.vim_config
+    $ git clone https://github.com/leafxx/my_vim.git ~/.vim_config
     $ cat ~/.vim_config/install.sh
     $ bash ~/.vim_config/install.sh
 
 ## 安装步骤(Windows系统):
-    $ git clone git@github.com:leafxx/my_vim.git ~/_vim_config
+    $ git clone https://github.com/leafxx/my_vim.git ~/_vim_config
     $ cat ~/_vim_config/install.sh
     $ bash ~/_vim_config/install.sh
 
